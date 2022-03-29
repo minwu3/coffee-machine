@@ -1,10 +1,10 @@
 # coffee-machine
-Coffee Machine
+Coffee Machine ☕️☕️☕️
 
 This is a coffee vending machine.
 
 Pick the coffe you would like to have. 
 
-Then, toss the coins.
+Then, toss the coins. 💰
 
 And enjoy your coffee.
